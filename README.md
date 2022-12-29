@@ -1,0 +1,2 @@
+# -inventariocomprasyventas
+inventariocomprasyventas
