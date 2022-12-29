@@ -1,0 +1,18 @@
+
+- Crear virtualhost y registrar en hosts
+- composer -v / laravel -v / php -v
+- laravel new nombreDelproyecto / composer create-project laravel/laravel nombreDelproyecto "9.45.*"
+- Crear BD y registrarla en env
+- composer require laravel/jetstream
+- php artisan jetstream:install livewire --team
+- php artisan migrate:fresh
+- php artisan vendor:publish --tag=jetstream-views
+- npm run dev
+
+
+GIT
+    - git init
+    - git add .
+    - git commit -m "primerCommit"
+    - git remote add origin https://github.com/pascualdas/-inventariocomprasyventas.git
+
